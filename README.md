@@ -7,4 +7,4 @@ How to run: Download a master file of this repository to your computer, which wi
 
 Roadmap of future improvements: In the future I would like to include another object on the screen and have the PacMan eat the object and have the object disappear.
 
-License information: This exercise and code was developed via MIT xPRO Web Development with JavaScript.
+License information: This exercise and code was developed via the MIT xPRO Web Development with JavaScript course.
